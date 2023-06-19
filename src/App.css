@@ -1,0 +1,22 @@
+
+.booksection {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 2px solid gray;
+}
+
+img {
+  text-align: center;
+  min-width: 200px;
+  max-height: 300px;
+}
+
+button {
+  background-color: gray;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  margin-top: 20px;
+}
